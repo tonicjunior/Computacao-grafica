@@ -1,2 +1,2 @@
-# computacao-grafica
+# Computacao-grafica
 Disciplina de computação gráfica
